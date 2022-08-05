@@ -260,7 +260,7 @@
 - [ ] Celebrate successes.
 - [ ] Remove impediments
 
-#### Q37. A team needs to do research, design, or prototyping. What is this type of story called?
+#### Q37. A team needs to do research, design, prototyping. What is this type of story called?
 
 - [x] Exploratory spike
 - [ ] Backlog refinement
@@ -773,7 +773,9 @@ ITIOO isn't a thing, thin verticle slicing is refering to what work you prioriti
 - [ ] Project Increment
 - [ ] Portfolio Increment
 - [ ] Product Increment
-- [ ] Program Increment
+- [x] Program Increment
+
+[Source](https://www.scaledagileframework.com/program-increment/) `non verified answer - extend, otherwise goes to backlog`
 
 #### Q108. How an you improve interaction between team members?
 
